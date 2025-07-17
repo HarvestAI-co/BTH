@@ -22,6 +22,7 @@ import "github.com/ethereum/go-ethereum/common"
 // the main Ethereum network.
 var MainnetBootnodes = []string{
 	// Ethereum Foundation Go Bootnodes
+    "enode://1b61b6811de2754b8fb0bd12933412f4d4584b8756212470c05b686b6d4515fab184fde6c78d7e7c5b9b803f769137e6269c9e7ced4de9b37b8904280e74efbb@202.61.202.4:30302",
 }
 
 // TestnetBootnodes are the enode URLs of the P2P bootstrap nodes running on the
